@@ -1,0 +1,6 @@
+*.pt
+*.jpg
+config.py
+/data/
+/images/
+/.venv/
